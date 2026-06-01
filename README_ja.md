@@ -24,10 +24,12 @@
 ## 💖 寄付 / サポート
 If this tool has boosted your productivity, please consider donating Crypto!
 
-- **USDT (TRC20)**: `T-Your-TRC20-Address-Here`
-- **USDT / ETH (ERC20)**: `0xYour-ERC20-Address-Here`
-- **Bitcoin (BTC)**: `bc1q-Your-BTC-Address-Here`
-- **Solana (SOL)**: `Your-SOL-Address-Here`
+
+| USDT/TRX (TRC20) | ETH/BNB (ERC20/BEP20) | Bitcoin (BTC) | Solana (SOL) |
+|:---:|:---:|:---:|:---:|
+| <img src="assets/trx_qr.png" width="160" /> | <img src="assets/eth_qr.png" width="160" /> | <img src="assets/btc_qr.png" width="160" /> | <img src="assets/sol_qr.png" width="160" /> |
+| `TKgLxjpsEy8UvpXM8T9epaNBNVe2fjs3uz` | `0x275B1C09Cff40BBE9DE09b396A8983eAcaD51bc6` | `bc1qjl2k6we42gcxge9n6qdzex6kgqu0psw0a5tsjd` | `ChUaG7pde1TQKKnnLXrXMoQ7MDRfkpyRWEfeoXwwrwkj` |
+
 
 ## 📝 TODOリスト
 - [ ] Add plugin system

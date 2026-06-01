@@ -32,12 +32,12 @@ EverythingMac 是一个高度成熟的全局文件检索效率工具。它打破
 
 EverythingMac 由独立开发者利用业余时间从零打造。如果这款工具提升了你的效率，欢迎通过加密货币请我喝杯咖啡，你的支持是我持续维护更新的最大动力！☕️
 
-### 🪙 加密货币打赏地址
 
-- **USDT (TRC20)**: `T-Your-TRC20-Address-Here`
-- **USDT / ETH (ERC20)**: `0xYour-ERC20-Address-Here`
-- **Bitcoin (BTC)**: `bc1q-Your-BTC-Address-Here`
-- **Solana (SOL)**: `Your-SOL-Address-Here`
+| USDT/TRX (TRC20) | ETH/BNB (ERC20/BEP20) | Bitcoin (BTC) | Solana (SOL) |
+|:---:|:---:|:---:|:---:|
+| <img src="assets/trx_qr.png" width="160" /> | <img src="assets/eth_qr.png" width="160" /> | <img src="assets/btc_qr.png" width="160" /> | <img src="assets/sol_qr.png" width="160" /> |
+| `TKgLxjpsEy8UvpXM8T9epaNBNVe2fjs3uz` | `0x275B1C09Cff40BBE9DE09b396A8983eAcaD51bc6` | `bc1qjl2k6we42gcxge9n6qdzex6kgqu0psw0a5tsjd` | `ChUaG7pde1TQKKnnLXrXMoQ7MDRfkpyRWEfeoXwwrwkj` |
+
 
 *万分感谢每一位支持独立开发的极客朋友！*
 
