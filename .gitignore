@@ -1,0 +1,18 @@
+# Ignore macOS / build files
+.DS_Store
+build/
+.build/
+*.dmg
+*.pyc
+__pycache__/
+
+# --- CLOSED SOURCE CONFIG ---
+# Ignore all source code and scripts from being pushed to public github
+Sources/
+*.swift
+*.py
+*.sh
+Package.*
+*.icns
+processed_logo.png
+PRD.md
